@@ -40,7 +40,6 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
         </header>
         <main>
-
         </main>
       </div>
     </Router>
